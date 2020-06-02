@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Chelsea FC](https://upload.wikimedia.org/wikipedia/ko/a/ae/Chelsea_FC_Logo.svg)

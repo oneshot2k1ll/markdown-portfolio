@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[James Park GitHub](https://github.com/oneshot2k1ll)
